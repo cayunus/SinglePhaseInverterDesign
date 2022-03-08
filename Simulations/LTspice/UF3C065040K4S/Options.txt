@@ -1,0 +1,6 @@
+.options ABSTOL=1n
+.options CHGTOL=1p
+.options ITL1=150
+.options ITL2=150
+.options ITL4=500
+.options RELTOL=0.001
